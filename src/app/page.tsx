@@ -1,7 +1,11 @@
 export default function Home() {
   return (
     <main>
-      <div>Hello world!</div>
+      <div className="text-white">Hello world!</div>
+
+
+      
+
     </main>
   );
 }
